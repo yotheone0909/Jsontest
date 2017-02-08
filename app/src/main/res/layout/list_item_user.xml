@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvAut_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="authorities_id"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvAut_code"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="authorities_code"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvAut_pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="authorities_pass"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvAut_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="authorities_name"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvAut_lname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="authorities_lastname"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvAut_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="authorities_address"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvAut_tel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="authorities_telephone"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvAut_datein"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="authorities_datein"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvAut_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="authorities_status"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="20sp" />
+
+</LinearLayout>
